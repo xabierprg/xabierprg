@@ -1,4 +1,4 @@
-Hi, I'm a junior developer that likes work on random projects.
+Hi, I'm a junior developer that works on random projects.
 
 <!---
 xabierprg/xabierprg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
