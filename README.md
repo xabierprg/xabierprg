@@ -1,6 +1,10 @@
-Hi, I'm a junior developer that works on random projects.
+Hi 👋 My name is Xabi
+=====================
 
-<!---
-xabierprg/xabierprg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Developer
+------------------
+
+*   🌍  I'm based in Galicia
+*   ✉️  You can contact me at [xabierpregolopez@gmail.com](mailto:xabierpregolopez@gmail.com)
+*   🧠  I'm learning Python.
+*   🤝  I'm open to collaborating on interesting projects.
