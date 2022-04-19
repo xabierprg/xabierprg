@@ -8,6 +8,7 @@ Software Developer
 *   ✉️  You can contact me at [xabierpregolopez@gmail.com](mailto:xabierpregolopez@gmail.com)
 *   🧠  I'm learning Python.
 *   🤝  I'm open to collaborating on interesting projects.
+
 ### Skills
 
 <p align="left">
