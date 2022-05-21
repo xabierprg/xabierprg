@@ -33,5 +33,6 @@ Software Developer
 
 <a href="https://github.com/xabierprg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabierprg&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![imagen](https://user-images.githubusercontent.com/77304402/169631610-87b543a3-6af0-4030-aea9-dfd926ab53cd.png)
+
+<a href="https://github.com/xabierprg" align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" alt="Recent Activity" /></a>
 
