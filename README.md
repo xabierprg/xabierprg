@@ -34,6 +34,3 @@ Software Developer
 
 <a href="https://github.com/xabierprg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabierprg&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/xabierprg" align="left">  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xabierprg&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/></a>
-
-
